@@ -10,7 +10,7 @@ https://jrincongr.github.io/myFuzzyCalendar/
 ### Github repository URL
 https://github.com/jrincongr/myFuzzyCalendar
 
-# 05 Third-Party APIs: Work Day Scheduler
+# Third-Party APIs: Work Day Scheduler
 
 ## User Story
 
