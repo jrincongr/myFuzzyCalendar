@@ -1,6 +1,6 @@
 # myFuzzyCalendar
 
-myFuzzyCalendar is an aplication that will help anyone who needs it, it allows you to events for each hour of the day by modifying starter code. This app run's in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+myFuzzyCalendar is an aplication that will help anyone who needs it, it allows you to add events for each hour of the day by modifying starter code. This app run's in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## URL
 
